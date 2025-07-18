@@ -11,7 +11,7 @@ A real-time sign language recognition system that predicts alphabets using hand 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Requirements](#requirements)
+- [Requirements](#requirements.txt)
 - [Dataset](#dataset)
 - [Model Details](#model-details)
 - [Project Structure](#project-structure)
