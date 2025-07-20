@@ -11,7 +11,7 @@ Automatically recognize sign language gestures from live video or images using d
 4. [Technology Stack](#technology-stack)  
 5. [Installation & Setup](#installation--setup)  
 6. [Usage](#usage)  
-7. [Model Training](#model-training)  
+7. [Model Training](#model_train.ipynb)  
 8. [Contributing](#contributing)  
 9. [License](#license)  
 10. [Contact](#contact)
