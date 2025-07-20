@@ -9,12 +9,10 @@ Automatically recognize sign language gestures from live video or images using d
 2. [Features](#features)  
 3. [Demo 📸](#demo-📸)  
 4. [Technology Stack](#technology-stack)  
-5. [Installation & Setup](#installation--setup)  
-6. [Usage](#usage)  
-7. [Model Training](#model_train.ipynb)  
-8. [Contributing](#contributing)  
-9. [License](#license)  
-10. [Contact](#contact)
+5. [Installation & Setup](#installation--setup)   
+6. [Model Training](#model_train)  
+7. [License](#license)  
+
 
 ---
 
@@ -63,3 +61,4 @@ Here’s an example of the predictor in action:
 ```bash
 git clone https://github.com/new-to-grow/SIGN_LANGUAGE_PREDICTOR.git
 cd SIGN_LANGUAGE_PREDICTOR
+
