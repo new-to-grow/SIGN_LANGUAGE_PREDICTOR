@@ -35,7 +35,7 @@ Sign Language Predictor uses a Convolutional Neural Network (CNN) model to class
 
 Here’s an example of the predictor in action:
 
-![Sign Detection Demo](./ditect.jpg)
+![Sign Detection Demo](./result.png)
 
 > *Filename: `ditect.jpg` (please ensure this file is correctly spelled and placed at the root of your repo).*
 
