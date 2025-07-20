@@ -1,1 +1,65 @@
+# 🤟 Sign Language Predictor
 
+Automatically recognize sign language gestures from live video or images using deep learning.
+
+---
+
+## Table of Contents
+1. [About the Project](#about-the-project)  
+2. [Features](#features)  
+3. [Demo 📸](#demo-📸)  
+4. [Technology Stack](#technology-stack)  
+5. [Installation & Setup](#installation--setup)  
+6. [Usage](#usage)  
+7. [Model Training](#model-training)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Contact](#contact)
+
+---
+
+## About the Project
+
+Sign Language Predictor uses a Convolutional Neural Network (CNN) model to classify hand gestures representing sign language alphabets (A–Z). It works with real-time webcam input or static images, showing predictions with confidence scores.
+
+---
+
+## Features
+
+- ✅ Real-time gesture detection using webcam  
+- 🖼️ Image file support for offline testing  
+- 🎯 Recognition accuracy up to 99.95% (when using the pretrained model)  
+- 📊 Overlaid confidence scores for each prediction
+
+---
+
+## Demo 📸
+
+Here’s an example of the predictor in action:
+
+![Sign Detection Demo](./ditect.jpg)
+
+> *Filename: `ditect.jpg` (please ensure this file is correctly spelled and placed at the root of your repo).*
+
+---
+
+## Technology Stack
+
+- **Language**: Python 3.9  
+- **Libraries**: OpenCV, TensorFlow/Keras, NumPy  
+- **Model**: Custom CNN trained on publicly available ASL dataset  
+- **Input**: Webcam feed or image files  
+- **Output**: Detected sign letter with confidence overlay
+
+---
+
+## Installation & Setup
+
+### Prerequisites
+- Python 3.7+  
+- `pip` for dependency management
+
+### Steps
+```bash
+git clone https://github.com/new-to-grow/SIGN_LANGUAGE_PREDICTOR.git
+cd SIGN_LANGUAGE_PREDICTOR
